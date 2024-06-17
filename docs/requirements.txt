@@ -1,0 +1,16 @@
+Sphinx
+sphinx-autobuild
+sphinx_rtd_theme
+recommonmark
+sphinx_markdown_tables
+myst_parser
+OpenAttack
+umap-learn
+jsonlines
+matplotlib
+pandas
+wget
+sentence_transformers
+strsimpy
+hdbscan
+language_tool_python
