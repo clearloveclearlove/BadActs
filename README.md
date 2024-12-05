@@ -1,4 +1,6 @@
-# This repo contains the code for paper [BadActs: A Universal Backdoor Defense in the Activation Space](https://arxiv.org/abs/2405.11227), accepted to ACL 2024 Findings.
+# BadActs: A Universal Backdoor Defense in the Activation Space
+
+This is the official repository for the paper [BadActs: A Universal Backdoor Defense in the Activation Space](https://arxiv.org/abs/2405.11227), accepted to ACL 2024 Findings.
 
 
 ## Dependencies
